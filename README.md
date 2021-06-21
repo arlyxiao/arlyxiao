@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋. Welcome to my little world 🌍
 
+Thank you for coming! Here's everything about myself.
+
+## Coding Skills
+* Ruby/Rails, Nodejs, C#, Python
+* SCSS/CSS, Javascript, React/Redux
+* Docker, Vagrant
+
+## Status
 - 🔭 I'm currently working on some web projects
 - 🌱 I'm currently learning (always)
 - 👯 I'm looking to talk with more people

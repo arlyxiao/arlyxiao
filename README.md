@@ -7,6 +7,10 @@ Thank you for coming! Here's everything about myself.
 * SCSS/CSS, Javascript, React/Redux
 * Docker, Vagrant
 
+## Coding Style
+Follow these styles as possible as I can
+- https://github.com/crazy-wisdom/style-guide
+
 ## Status
 - 🔭 I'm currently working on some web projects
 - 🌱 I'm currently learning (always)

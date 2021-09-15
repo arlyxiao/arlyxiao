@@ -1,4 +1,4 @@
-### Hi there 👋. Welcome to my little world 🌍
+### Hi there 👋. Welcome 🌍
 
 Thank you for coming! Here's everything about myself.
 

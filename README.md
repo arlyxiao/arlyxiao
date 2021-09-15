@@ -3,7 +3,7 @@
 Thank you for coming! Here's everything about myself.
 
 ## Coding Skills
-* Ruby/Rails, Nodejs, C#, Python
+* Ruby/Rails, Nodejs
 * SCSS/CSS, Javascript, React/Redux
 * Docker, Vagrant
 

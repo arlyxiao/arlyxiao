@@ -1,19 +1,15 @@
-### Hi there 👋. Welcome 🌍
+### Hi there 👋.
 
-Thank you for coming! Here's everything about myself.
+I'm a developer and working with these coding languages.
 
-## Coding Skills
-* Ruby/Rails, Nodejs
-* SCSS/CSS, Javascript, React/Redux
-* Docker, Vagrant
+- Javascript: React/Redux, WebAssembly
+- Ruby
+- CSS/SCSS
+- Rust
+- Dart, Flutter
 
-
-## Status
-- 🔭 I'm currently working on some web projects
-- 🌱 I'm currently learning (always)
-- 👯 I'm looking to talk with more people
-- 🤔 I'm adding more personal notes on https://github.com/arlyxiao/best-practice/issues
-- 💬 Ask me about coding, chess and soccer
-- 😄 Prefer 'tiny win' to manage projects and personal self
-- ⚡ Fun fact: Soccer Player.
-- 📫 How to reach me: []
+## Utilities
+- **[vercel](https://vercel.com/)**
+- **[render](https://render.com/)**
+- **[BackBlaze](https://backblaze.com)**
+- **[diagrams](https://www.diagrams.net)**

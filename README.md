@@ -1,12 +1,7 @@
 ### Hi there 👋.
 
-I'm a developer and working with these.
+I'm a developer.
 
-- Javascript: React/Redux, WebAssembly
-- Ruby
-- CSS/SCSS
-- Rust
-- Dart, Flutter
 
 ## Utilities
 - **[render](https://render.com/)** - Cloud service.

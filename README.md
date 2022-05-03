@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-I'm a developer.
+I'm excited that you can visit my page.
 
 
 ## Utilities
@@ -9,3 +9,4 @@ I'm a developer.
 - **[diagrams](https://www.diagrams.net)** - Friendly working flow tool.
 - **[namesilo](https://www.namesilo.com)** - I always forgot the username/password.
 - **[racknerd](https://racknerd.com)** - Server host.
+- **[codeclimate](https://codeclimate.com)** - Help improve coding quality.

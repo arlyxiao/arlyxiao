@@ -1,6 +1,6 @@
 ### Hi there 👋.
 
-I'm excited that you can visit my page.
+Current is the future.
 
 
 ## Utilities
